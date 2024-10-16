@@ -1,4 +1,4 @@
-i = input('Você é um pedestre ou um motorista?')
+i = input('Você é um pedestre ou um motorista? ')
 if i!='pedestre' and i!='motorista':
     print('Digite uma resposta válida.')
 elif i=='motorista':
