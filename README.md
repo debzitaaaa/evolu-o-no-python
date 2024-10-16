@@ -1,1 +1,1 @@
-Esse código tem como intuito indentificar quais pessoas podem ter acesso a fila preferencial.
+Esse código tem como intuito informar quando o pedestre pode passar na faixa de pedestre.
