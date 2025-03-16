@@ -1,0 +1,1 @@
+#Fiquei muito tempo fora do github, mas acabou que eu aprendi muita coisa nesse meio peíodo, como estruturas de repetição e funções. Perdi boa parte dos códigos que fiz nesse meio tempo, mas logo posto um (o melhor até agora que eu já fiz), mostrando tudo que aprendi!!
